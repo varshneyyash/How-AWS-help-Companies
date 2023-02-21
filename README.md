@@ -1,4 +1,4 @@
-# How-AWS-help-Companies-
+# How-AWS-help-Companies
 
 Goldman Sachs using AWS - Case Study
 
